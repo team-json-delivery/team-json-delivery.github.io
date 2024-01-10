@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    # Content: 이곳에다 블로그에 대한 설명을 적습니다. 
 
 #  socialIcons:
 #    - name: twitter
