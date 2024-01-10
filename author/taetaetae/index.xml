@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 06:48:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 06:27:22 +0900</lastBuildDate>
     <atom:link href="https://team-json-delivery.github.io/author/taetaetae/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://team-json-delivery.github.io/posts/first-post/</link>
-      <pubDate>Wed, 03 Jan 2024 06:48:20 +0900</pubDate>
-      <guid>https://team-json-delivery.github.io/posts/first-post/</guid>
-      <description>dfdf</description>
+      <title>주변 맛집을 찾으려면 어떻게 설계를 해야 할까?</title>
+      <link>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</link>
+      <pubDate>Thu, 11 Jan 2024 06:27:22 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</guid>
+      <description>어떡하긴 뭘 어떻게 해 대충 좌표 주고 쿼리로 위경도 범위 안에 들어오는 지점 찾으면 되는 거 아님?ㅋㅋ</description>
     </item>
   </channel>
 </rss>
