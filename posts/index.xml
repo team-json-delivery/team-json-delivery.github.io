@@ -14,11 +14,11 @@
     <lastBuildDate>Thu, 11 Jan 2024 06:27:22 +0900</lastBuildDate>
     <atom:link href="https://team-json-delivery.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>주변 맛집을 찾으려면 어떻게 설계를 해야 할까?</title>
+      <title>주변 맛집을 찾으려면 어떻게 해야 검색이 빠를까?</title>
       <link>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</link>
       <pubDate>Thu, 11 Jan 2024 06:27:22 +0900</pubDate>
       <guid>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</guid>
-      <description>어떡하긴 뭘 어떻게 해 대충 좌표 주고 쿼리로 위경도 범위 안에 들어오는 지점 찾으면 되는 거 아님?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</description>
+      <description>맛집을 찾으려 포털사이트에서 키워드로 검색하는 경우가 있다. &amp;ldquo;중식 맛집&amp;rdquo; 또는 &amp;ldquo;분위기 좋은 카페&amp;rdquo; 같은 특정 키워드로 검색을 하게 되면 블로그 후기를 본다거나 지도 서비스를 활용하여 어디에 있는지 위치를 확인한다. 블로그 후기의 경우 수많은 웹문서들을 검색 엔진이 미리 색인을 해두고 검색 키워드에 따라 결과를 보여주는 형태라고 가볍게 추측해볼수 있을것 같은데 지도상에 어디에 지점이 있는지 알려주는 지도 서비스에서는 어떻게 위치 기반으로 검색을 할 수 있을까? 단순히 위경도 기준으로 쿼리 돌려 조회하면 되겠지 싶다가도 국내를 넘어 글로벌 지도 서비스까지 생각해보면 그 양이 어마어마 할텐데 1초 이내로 검색이 빠르게 되는걸 보면 그저 대단하다 라고 생각하기엔 내부 구현이 궁금해진다.</description>
     </item>
   </channel>
 </rss>
