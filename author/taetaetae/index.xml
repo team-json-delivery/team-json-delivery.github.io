@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 06:27:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 06:27:22 +0900</lastBuildDate>
     <atom:link href="https://team-json-delivery.github.io/author/taetaetae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>주변 맛집을 찾으려면 어떻게 해야 검색이 빠를까?</title>
       <link>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</link>
-      <pubDate>Fri, 02 Feb 2024 06:27:22 +0900</pubDate>
+      <pubDate>Tue, 06 Feb 2024 06:27:22 +0900</pubDate>
       <guid>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</guid>
       <description>점심을 먹기 위해 지도 앱을 켜고 적당한 위치로 화면을 이동한 뒤 &amp;ldquo;맛집&amp;quot;이라는 키워드로 검색을 한다. 그러면 해당 지도 범위 안에 있는 식당들이 검색되고 지도상에 마커와 함께 어디에 어떤 식당이 있는지 한눈에 볼 수 있다. 그중 괜찮은 식당을 선택하면 해당 지점(이하 사업장)의 상세 정보를 확인할 수 있고 서비스에 따라 바로 예약을 할 수 있는 기능도 제공된다. 이러한 특정 범위(위도/경도 + 반경) 내에서 키워드 검색으로 지도상에 노출을 해주는 &amp;ldquo;근접성 서비스(proximity service)&amp;ldquo;는 여러 서비스들에서 사용자들의 편의를 위해 다양하게 활용된다.</description>
     </item>
