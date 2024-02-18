@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Feb 2024 06:27:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 06:27:22 +0900</lastBuildDate>
     <atom:link href="https://team-json-delivery.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 근처에는 누가 살고 있을까? : 위치 기반 서비스 설계하기</title>
+      <link>https://team-json-delivery.github.io/posts/nearby-service/</link>
+      <pubDate>Sun, 18 Feb 2024 06:27:22 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/nearby-service/</guid>
+      <description>오늘은 스터디원 분들과 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권 의 주변친구 챕터를 스터디를 하며 나눈 내용을 바탕으로 포스팅을 해보려 해요.
+면접에서 주변 친구 서비스를 설계해 보라고 하면 어떻게 할까요?
+문제를 이해하고 설계 범위를 확정하자 면접 상황에서는 문제를 이해하고 기능의 스펙을 최소화 하는데 집중해야 합니다.
+국내 서비스 수준이 아닌 글로벌 서비스 수준의 설계를 원하는지, 주변 친구의 범위가 어느 정도인지, 채팅과 같은 부가기능을 지원해야 되는지에 대해서도 논의해 보면 좋아요. 면접 상황에서는 가급적 핵심 기능에 집중하고 면접관과 이해도를 맞추도록 해요.</description>
+    </item>
     <item>
       <title>주변 맛집을 찾으려면 어떻게 해야 검색이 빠를까?</title>
       <link>https://team-json-delivery.github.io/posts/system-design-interview-proximity-service/</link>
