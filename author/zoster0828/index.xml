@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoster0828 on Team JSON Delivery</title>
+    <link>https://team-json-delivery.github.io/author/zoster0828/</link>
+    <description>Recent content in Zoster0828 on Team JSON Delivery</description>
+    <image>
+      <title>Team JSON Delivery</title>
+      <url>https://avatars.githubusercontent.com/u/144499008</url>
+      <link>https://avatars.githubusercontent.com/u/144499008</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2024 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://team-json-delivery.github.io/author/zoster0828/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>모니터링, 알람 그리고 장애들 😊</title>
+      <link>https://team-json-delivery.github.io/posts/metric-service/</link>
+      <pubDate>Sat, 09 Mar 2024 09:00:00 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/metric-service/</guid>
+      <description>Team json delivery는 각자 다른 회사를 다니는 팀원들로 구성되어 있어요.
+게임, IT, 금융, 제조업 까지 없는곳이 없어요!
+어쩌면 도메인 별로 차이가 있을까요?
+모여서 각 회사에서는 어떻게 모니터링을 하고 장애를 관리하는지에 대해
+이야기를 나누고 설계를 진행해 보았어요.
+1. 🤔 장애가 뭔가요? 장애란, 우리가 쓰는 시스템이나 서비스가 제대로 작동하지 않는 상태를 말해요.
+이런 문제는 네트워크가 느리거나 서버에 문제가 생기거나
+데이터베이스가 이상한 등 다양한 이유로 생길 수 있어요.
+DEVOPS와 microservice로 인한 모듈 파편화에 따라 이러한 모니터링, 또는 관측성이 더욱 중시되고 있어요!</description>
+    </item>
+  </channel>
+</rss>
