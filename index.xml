@@ -29,6 +29,17 @@
 DEVOPS와 microservice로 인한 모듈 파편화에 따라 이러한 모니터링, 또는 관측성이 더욱 중시되고 있어요!</description>
     </item>
     <item>
+      <title>쓰지만 말고 직접 구현해보자! 분산 메시지큐!</title>
+      <link>https://team-json-delivery.github.io/posts/%EB%B6%84%EC%82%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%ED%81%90/</link>
+      <pubDate>Tue, 27 Feb 2024 09:00:00 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/%EB%B6%84%EC%82%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%ED%81%90/</guid>
+      <description>쓰지만 말고 직접 구현해보자! 분산 메시지큐! MSA(Microservice Architecture)가 아키텍처 설계의 트랜드가 되면서 메시지 큐는 시스템 구성의 중요한 요소로 자리잡았습니다. 이번 글에서는 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2 4장 분산 메시지 큐를 소개하려고 합니다.
+분산 메시지 큐의 특징을 간단히 알아보고, 기본적인 요소를 설계해봅시다.
+(메세지 큐를 구성하는 요소가 방대한 만큼 세부 개념에 대한 자세한 설명은 넘어가겠습니다.)
+본격적인 설계에 앞서 메시지 큐의 기능을 생각해봅시다.
+1. 프로듀서는 메시지 큐에 메시지를 보낼 수 있어야 합니다.</description>
+    </item>
+    <item>
       <title>내 근처에는 누가 살고 있을까? : 위치 기반 서비스 설계하기</title>
       <link>https://team-json-delivery.github.io/posts/nearby-service/</link>
       <pubDate>Sun, 18 Feb 2024 06:27:22 +0900</pubDate>
