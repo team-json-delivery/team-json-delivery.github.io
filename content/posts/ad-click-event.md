@@ -17,6 +17,11 @@ cover:
 - SSP (Supply-Side Platform): SSP는 웹사이트 소유자나 퍼블리셔들이 자신의 디지털 인벤토리를 판매할 수 있는 플랫폼입니다. 이 플랫폼을 통해 퍼블리셔들은 다양한 광고 네트워크와 광고 거래소에 접근할 수 있습니다.
 
 - OPEN RTB: 이는 Real-Time Bidding(실시간 입찰)을 위한 업계 표준 프로토콜입니다. DSP와 SSP 사이에서 광고 인벤토리의 구매 및 판매가 실시간으로 이루어지며, 이 과정에서 광고 클릭 이벤트 데이터가 생성됩니다.
+  - OPEN RTB의 스펙 문서 : https://www.iab.com/wp-content/uploads/2016/03/OpenRTB-API-Specification-Version-2-5-FINAL.pdf
+#### 국내외 주요 AD tech 기업
+![img.png](/images/ad-click/overseas.webp)
+
+![img.png](/images/ad-click/s_korea.png)
 
 광고 클릭 이벤트 집계 시스템은 이러한 데이터를 처리하고, 광고 클릭 이벤트의 수, 광고별 성능, 광고주와 퍼블리셔 간의 거래를 분석하는 데 중요한 역할을 합니다. 이 시스템은 또한 클릭 어뷰징 검증, 광고 고유키와 인벤토리 ID의 관리, 다양한 보고서 제공 등을 수행함으로써, 디지털 광고 생태계에서 투명성과 효율성을 높이는 데 기여합니다.
 ![img.png](/images/ad-click/1.png)
@@ -193,6 +198,9 @@ GET /v1/ads/popular_ads
 ### 스트리밍 vs 일괄 처리
 - Lambda 아키텍처: 스트리밍 처리와 배치 처리를 병행하여 처리하는 구조로, 두 가지 처리 경로를 모두 유지하는 단점이 있습니다.
 - Kappa 아키텍처: 배치 처리와 스트리밍 처리 경로를 하나로 통합해 두 경로의 유지 관리 문제를 해결합니다. Kappa 아키텍처는 일괄 처리를 스트리밍 처리로 변환하여 단일 처리 경로를 제공합니다.
+
+* 준호님이 추천해주신 labmda와 kappa 아키텍처 이해에 좋은 영상
+  * https://youtu.be/U5G-i73Wb6U?feature=shared
 ### 데이터 재계산
 - Historical Data Replay: 집계 서비스에 버그가 발견되었을 때, 이전 데이터를 다시 처리하여 정확한 집계 결과를 얻기 위한 방법입니다. 이를 위해 데이터는 재처리 가능한 형태로 저장되어야 합니다.
 
