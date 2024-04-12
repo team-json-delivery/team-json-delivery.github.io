@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://team-json-delivery.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>빠르고 정확한 실시간 게임 순위표 설계하기</title>
+      <link>https://team-json-delivery.github.io/posts/%EC%8B%A4%EC%8B%9C%EA%B0%84_%EA%B2%8C%EC%9E%84_%EC%88%9C%EC%9C%84%ED%91%9C/</link>
+      <pubDate>Wed, 10 Apr 2024 09:00:00 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/%EC%8B%A4%EC%8B%9C%EA%B0%84_%EA%B2%8C%EC%9E%84_%EC%88%9C%EC%9C%84%ED%91%9C/</guid>
+      <description>실시간 게임 순위표 이번 글에서는 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2 10장 실시간 게임 순위표를 소개하려고 합니다.
+실시간 게임 순위표의 특징을 간단히 알아보고, 기본적인 요소를 설계해봅시다.
+1. 실시간 게임 순위표 이해 및 설계 범위 확정하기 실시간 게임 순위표는 꽤 간단한 시스템으로 보입니다.
+하지만, 복잡성을 더할 수 있는 여러 가지 문제가 있으므로 요구사항(특징)을 분명히 확인하는게 좋습니다.
+1. 사용자는 경기에서 승리하면 포인트를 얻습니다. 2. 모든 플레이어가 순위표에 포함되어야 합니다. 3.</description>
+    </item>
     <item>
       <title>웹 서비스 매출은 광고 원툴 아닌가요? 그럼 이것만 알면 되겠네!</title>
       <link>https://team-json-delivery.github.io/posts/ad-click-event/</link>
