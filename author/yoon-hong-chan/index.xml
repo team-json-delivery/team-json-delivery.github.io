@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YOON-HONG-CHAN on Team JSON Delivery</title>
+    <link>https://team-json-delivery.github.io/author/yoon-hong-chan/</link>
+    <description>Recent content in YOON-HONG-CHAN on Team JSON Delivery</description>
+    <image>
+      <title>Team JSON Delivery</title>
+      <url>https://avatars.githubusercontent.com/u/144499008</url>
+      <link>https://avatars.githubusercontent.com/u/144499008</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2024 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://team-json-delivery.github.io/author/yoon-hong-chan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>쿠팡, 아마존, 알리와 같은 기업들은 결제 시스템을 어떻게 만드는걸까? </title>
+      <link>https://team-json-delivery.github.io/posts/pay-system/</link>
+      <pubDate>Sat, 25 May 2024 09:00:00 +0900</pubDate>
+      <guid>https://team-json-delivery.github.io/posts/pay-system/</guid>
+      <description>💸 결제 시스템은 정확히 무엇을 말하는걸까요?! 이번 블로그에서의 결제 시스템은 신용 카드, 은행 카드 등을 연동하여 결제 서비스를 제공하는 시스템을 말합니다. 요즘은 결제 시스템을 사용하시는 분들이 많기 때문에 &amp;lsquo;안정, 유연, 확장 가능&amp;rsquo;을 고려하여 시스템을 구축해야 합니다. 하지만 무엇보다도 &amp;lsquo;작은 실수로도 상당한 금액 손실이 발생&amp;rsquo;할 수 있다는 점을 간과해서는 안 됩니다. 💻 결제 시스템 흐름! 결제 시스템을 알기 위해서는 &amp;lsquo;대금 수신 흐름&amp;rsquo;을 알아야 합니다. 대금 수신 흐름 시스템 설계에서 필요한 주요 요소들이 있습니다.</description>
+    </item>
+  </channel>
+</rss>
